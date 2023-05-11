@@ -3,17 +3,6 @@
 - 🔭 Trabalho com Back-End
 - 🌱 Estudando AWS
 - 📫 Contate-me no e-mail: Eduardo.brand98@gmail.com
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=EduuBrandao&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=EduuBrandao&show_icons=true&include_all_commits=true&theme=dracula"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=EduuBrandao&show_icons=true&theme=dracula" />
-</picture>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

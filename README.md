@@ -1,6 +1,6 @@
 ### Olá! sou o Eduardo Brandão
 
-- 🔭 Trabalho com Back-End
+- 🔭 Trabalho com Back-End e Front-End
 - 🌱 Estudando AWS
 - 📫 Contate-me no e-mail: Eduardo.brand98@gmail.com
 
